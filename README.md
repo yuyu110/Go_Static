@@ -1,0 +1,2 @@
+# Go_Static
+practice
